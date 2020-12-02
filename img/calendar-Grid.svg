@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1650.79" height="1343.906" viewBox="0 0 1650.79 1343.906">
+  <defs>
+    <filter id="Rectangle_723" x="457.54" y="409.078" width="250.834" height="250.834" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Rectangle_718" x="490.54" y="183.992" width="184.834" height="270.088" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_719" x="660.71" y="453.084" width="990.08" height="190.834" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.4"/>
+    </linearGradient>
+    <filter id="Rectangle_721" x="478.427" y="614.914" width="190.834" height="728.992" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_722" x="0" y="453.084" width="499.876" height="190.834" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_717" x="446.457" y="407.109" width="1201.945" height="254.773" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-6"/>
+      <feFlood flood-color="#ff9d00" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="-0.02" y1="0.596" x2="1.016" y2="0.583" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e3e3e3"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Calendar_Grid" data-name="Calendar Grid" transform="translate(7.5)">
+    <g transform="matrix(1, 0, 0, 1, -7.5, 0)" filter="url(#Rectangle_723)">
+      <rect id="Rectangle_723-2" data-name="Rectangle 723" width="175.834" height="175.834" transform="translate(495.04 446.58)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, 0)" filter="url(#Rectangle_718)">
+      <rect id="Rectangle_718-2" data-name="Rectangle 718" width="175.834" height="261.087" transform="translate(495.04 185.49)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, 0)" filter="url(#Rectangle_719)">
+      <rect id="Rectangle_719-2" data-name="Rectangle 719" width="175.834" height="975.08" transform="translate(1643.29 457.58) rotate(90)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, 0)" filter="url(#Rectangle_721)">
+      <rect id="Rectangle_721-2" data-name="Rectangle 721" width="175.834" height="713.993" transform="translate(485.93 622.41)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, 0)" filter="url(#Rectangle_722)">
+      <rect id="Rectangle_722-2" data-name="Rectangle 722" width="175.834" height="484.876" transform="translate(7.5 633.42) rotate(-90)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, 0)" filter="url(#Rectangle_717)">
+      <rect id="Rectangle_717-2" data-name="Rectangle 717" width="1186.945" height="239.774" rx="3" transform="translate(453.96 414.61)" fill="#ff9800"/>
+    </g>
+    <rect id="Rectangle_740" data-name="Rectangle 740" width="1080" height="9" transform="translate(551.925 611.704)" fill="url(#linear-gradient-5)"/>
+    <text id="_09" data-name="09" transform="translate(1468.402 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">09</tspan></text>
+    <text id="_16" data-name="16" transform="translate(1468.402 511.081)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">16</tspan></text>
+    <text id="_23" data-name="23" transform="translate(1468.402 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">23</tspan></text>
+    <text id="_30" data-name="30" transform="translate(1468.402 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">30</tspan></text>
+    <text id="S" transform="translate(1477.103 1194.395)" fill="#bfbfbf" font-size="1" font-family="Roboto-Regular, Roboto"><tspan x="-0.297" y="0">S</tspan></text>
+    <text id="_02" data-name="02" transform="translate(1468.402 23)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">02</tspan></text>
+    <text id="_08" data-name="08" transform="translate(1235.713 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">08</tspan></text>
+    <text id="_15" data-name="15" transform="translate(1235.713 511.081)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">15</tspan></text>
+    <text id="_22" data-name="22" transform="translate(1235.713 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">22</tspan></text>
+    <text id="_29" data-name="29" transform="translate(1235.713 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">29</tspan></text>
+    <text id="F" transform="translate(1245.533 1194.395)" fill="#bfbfbf" font-size="1" font-family="Roboto-Regular, Roboto"><tspan x="-0.276" y="0">F</tspan></text>
+    <text id="_01" data-name="01" transform="translate(1235.713 23)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">01</tspan></text>
+    <text id="_07" data-name="07" transform="translate(1003.023 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">07</tspan></text>
+    <text id="_14" data-name="14" transform="translate(1003.023 511.081)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">14</tspan></text>
+    <text id="_21" data-name="21" transform="translate(1003.023 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">21</tspan></text>
+    <text id="_28" data-name="28" transform="translate(1003.023 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">28</tspan></text>
+    <text id="T" transform="translate(1012.071 1194.395)" fill="#bfbfbf" font-size="1" font-family="Roboto-Regular, Roboto"><tspan x="-0.298" y="0">T</tspan></text>
+    <text id="_06" data-name="06" transform="translate(776.009 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">06</tspan></text>
+    <text id="_13" data-name="13" transform="translate(776.009 511.081)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">13</tspan></text>
+    <text id="_20" data-name="20" transform="translate(776.009 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">20</tspan></text>
+    <text id="_27" data-name="27" transform="translate(776.009 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">27</tspan></text>
+    <text id="W" transform="translate(780.688 1193.838)" fill="#bfbfbf" font-size="5" font-family="Roboto-Regular, Roboto"><tspan x="-2.218" y="0">W</tspan></text>
+    <text id="_05" data-name="05" transform="translate(543.319 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">05</tspan></text>
+    <text id="_12" data-name="12" transform="translate(553.453 497.782)" fill="#fff" font-size="51" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-29.26" y="0">12</tspan></text>
+    <text id="_19" data-name="19" transform="translate(543.319 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">19</tspan></text>
+    <text id="_26" data-name="26" transform="translate(543.319 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">26</tspan></text>
+    <text id="T-2" data-name="T" transform="translate(552.368 1194.395)" fill="#bfbfbf" font-size="1" font-family="Roboto-Regular, Roboto"><tspan x="-0.298" y="0">T</tspan></text>
+    <text id="_04" data-name="04" transform="translate(310.63 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">04</tspan></text>
+    <text id="_11" data-name="11" transform="translate(310.63 511.081)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">11</tspan></text>
+    <text id="_18" data-name="18" transform="translate(310.63 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">18</tspan></text>
+    <text id="_25" data-name="25" transform="translate(310.63 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">25</tspan></text>
+    <text id="M" transform="translate(315.656 1193.838)" fill="#bfbfbf" font-size="5" font-family="Roboto-Regular, Roboto"><tspan x="-2.183" y="0">M</tspan></text>
+    <text id="_03" data-name="03" transform="translate(77.941 267.04)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">03</tspan></text>
+    <text id="_10" data-name="10" transform="translate(77.941 511.081)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">10</tspan></text>
+    <text id="_17" data-name="17" transform="translate(77.941 755.121)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">17</tspan></text>
+    <text id="_24" data-name="24" transform="translate(77.941 999.162)" fill="#2e2e2e" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-14.038" y="0">24</tspan></text>
+    <text id="S-2" data-name="S" transform="translate(86.642 1194.395)" fill="#bfbfbf" font-size="1" font-family="Roboto-Regular, Roboto"><tspan x="-0.297" y="0">S</tspan></text>
+    <text id="TUE" transform="translate(547.676 586.02)" fill="#fff" font-size="39" font-family="Archivo-Regular, Archivo"><tspan x="-39" y="0">TUE</tspan></text>
+  </g>
+</svg>

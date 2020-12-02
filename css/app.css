@@ -1,0 +1,697 @@
+body {background-color: white;
+}
+
+h1, h2 {
+}
+
+h1 {font-family: 'Archivo', sans-serif;
+	font-weight: 700;
+}
+
+h2 {font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	font-size: 2rem;
+}
+
+p {font-family: 'Archivo', sans-serif;
+	font-weight: 400;
+	font-size: .95rem;
+
+}
+
+header {background-color: #FF9800;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 700;
+	font-size: 1.5rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+
+}
+
+
+header { 
+	position: fixed; top: 0;
+left: 0; width: 100%; z-index: 99999;
+}
+
+header a { color: white;
+	line-height: 5rem;
+}
+
+header a:hover {
+	color: grey;
+}
+
+
+.reveal {
+  background-color: white;
+  top: 50% !important
+}
+
+.reveal .grid-container {
+  height: 100%;
+}
+
+.reveal .grid-x {
+  height: 100%;
+}
+
+.reveal .cell {
+  margin: auto;
+}
+
+.reveal a {
+  color: #FF9800;
+  font-size: 2rem;
+  font-family: "Archivo", sans-serif;
+  font-weight: 800;
+  padding: 2rem;
+}
+
+
+.reveal h1 {
+	color: #FF9800;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	font-style: italic;
+
+
+}
+
+.orbit img {
+	width: 100%;
+}
+
+
+.features { background-color: ##FF9800;
+  padding: 0rem;
+  margin-top: 122px;
+}
+
+.feature img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.orbit {
+	padding-bottom: 2rem;
+}
+
+
+.About-header {
+	background-color: white;
+	width: 100%;
+}
+
+.About-header img {
+	width: 10%;
+	padding-bottom: 1rem;
+	color: #FF9800;
+}
+
+.About-header h1 {
+	color: #FF9800;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 800;
+	font-size: 2rem;
+	font-style: italic;
+}
+.About-header h2 {
+	color: grey;
+	font-size: 1rem;
+}
+
+.About-body {
+	background-color: white;
+	width: 100%;
+}
+
+
+.About-body h1 {
+	font-size: 2rem;
+	color: #FF9800;
+}
+
+.About-body p {
+	font-size: 1rem;
+	color: grey;
+	
+}
+
+.Rooms-hero img{
+	width: 100%;
+	padding-top: 2rem;
+}
+.Rooms-header {
+	background-color: white;
+	width: 100%;
+	padding-top: 2rem;
+}
+
+.Rooms-header img {
+	width: 10%;
+	padding-bottom: 1rem;
+	color: #FF9800;
+}
+
+
+.Rooms-header h1 {
+	color: #FF9800;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 800;
+	font-size: 2rem;
+	font-style: italic;
+}
+
+
+.Rooms-header h2 {
+	color: grey;
+	font-size: 1rem;
+}
+
+.One-Rep-Max img {
+	width: 100%;
+}
+.One-Rep-Max h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.One-Rep-Max {
+	background-color: white;
+}
+
+.One-Rep-Max h2 {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: 400;
+	color: grey;
+	font-size: 1.5rem;
+
+}
+
+.One-Rep-Max p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Training-Partners img {
+	width: 100%;
+}
+
+.Training-Partners h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Training-Partners {
+	background-color: white;
+}
+
+.Training-Partners h2 {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: 400;
+	color: grey;
+	font-size: 1.5rem;
+
+}
+
+.Training-Partners p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.Relay-Team img {
+	width: 100%;
+}
+
+.Relay-Team h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+
+}
+
+.Relay-Team {
+	background-color: white;
+}
+
+.Relay-Team h2 {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: 400;
+	color: grey;
+	font-size: 1.5rem;
+
+}
+
+.Relay-Team p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Mr-Universe img {
+	width: 100%;
+	padding-bottom: 3rem;
+}
+
+.Mr-Universe h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Mr-Universe {
+	background-color: white;
+}
+
+.Mr-Universe h2 {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: 400;
+	color: grey;
+	font-size: 1.5rem;
+
+}
+
+.Mr-Universe p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Amenities-header {
+	background-color: white;
+	width: 100%;
+	padding-top: 2rem;
+}
+.Amenities-header img {
+	width: 10%;
+	padding-bottom: 1rem;
+}
+
+.Amenities-header h1 {
+	color: white;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 800;
+	font-size: 2rem;
+	font-style: italic;
+	color: #FF9800;
+}
+.Amenities-header h2 {
+	color: grey;
+	font-size: 1rem;
+}
+
+
+
+.Olympic-Pool h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Olympic-Pool p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Olympic-Pool img {
+	width: 100%;
+
+}
+
+
+.Rowing-Room h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Rowing-Room p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Rowing-Room img {
+	width: 100%;
+
+}
+
+.CrossFit-Garage h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.CrossFit-Garage p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.CrossFit-Garage img {
+	width: 100%;
+}
+
+.Turf-Field h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Turf-Field p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.Turf-Field img {
+	width: 100%;
+}
+
+.Strength-Gyms h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Strength-Gyms p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.Strength-Gyms img {
+	width: 100%;
+}
+
+
+.Yoga-Studio h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Yoga-Studio p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.Yoga-Studio img {
+	width: 100%;
+}
+
+
+.Boxing-Ring h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Boxing-Ring p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.Boxing-Ring img {
+	width: 100%;
+}
+
+
+.Basketball-Court h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Basketball-Court p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+
+.Basketball-Court img {
+	width: 100%;
+}
+
+
+.Juice-and-Wellness-Bar h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Juice-and-Wellness-Bar p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Juice-and-Wellness-Bar img {
+	width: 100%;
+}
+
+
+.Physical-Therapy-Spa h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Physical-Therapy-Spa p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Physical-Therapy-Spa img {
+	width: 100%;
+}
+
+
+
+.Nutrition-Stations h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Nutrition-Stations p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Nutrition-Stations img {
+	width: 100%;
+}
+
+
+
+.Certified-Trainers h1 {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: #FF9800;
+	font-size: 2rem;
+
+}
+
+.Certified-Trainers p {
+	font-family: 'Archivo', sans-serif;
+	font-weight: 600;
+	color: grey;
+	font-size: 1rem;
+
+}
+
+.Certified-Trainers img {
+	width: 100%;
+	padding-bottom: 3rem;
+}
+
+
+
+.Book-hero img{
+	width: 100%;
+	padding-top: 0rem;
+}
+
+
+.Book-header {
+	background-color: white;
+	width: 100%;
+	padding-top: 2rem;
+}
+
+.Book-header h1 {
+	color: #FF9800;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 800;
+	font-size: 2rem;
+	font-style: italic;
+}
+.Book-header h2 {
+	color: grey;
+	font-size: 1rem;
+}
+
+.Book-header img {
+	width: 10%;
+	padding-bottom: 1rem;
+}
+
+
+
+.accordion {
+	padding-bottom: 0rem;
+	padding-top: 2rem;
+}
+
+.accordion a {
+	color: #FF9800;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+
+.button {
+	color: white;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 800;
+	font-size: 1rem;
+	background-color: #FF9800;
+	
+}
+
+
+.button:hover {
+	background: grey;
+}
+
+.reveal h1 {
+
+font-family: 'Archivo', sans-serif;
+	font-weight: 400;
+	color: #FF9800;
+	font-size: 1.5rem;
+
+}
+
+.reveal h2 {
+
+font-family: 'Archivo', sans-serif;
+	font-weight: 400;
+	color: grey;
+	font-size: 1rem
+
+}
+
+
+
+.footer {
+	background-color: white;
+}
+
+.footer img; {
+	color: white;
+}
+
+.footer h1 {
+	color: grey;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	font-style: italic;
+	align-content: center;
+}
+
+.footer h2 {
+	color: grey;
+	font-family: 'Archivo', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+
+
+}
+
+
+
+#confirmation-overlay {
+	top: 25% !important
+}
